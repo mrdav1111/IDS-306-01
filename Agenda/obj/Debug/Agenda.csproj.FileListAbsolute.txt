@@ -160,3 +160,9 @@ C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Net.Http.Formatting.xml
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.xml
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.WebHost.xml
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Net.Http.Formatting.dll
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Web.Http.dll
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Web.Http.WebHost.dll
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Net.Http.Formatting.xml
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Web.Http.xml
+C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\System.Web.Http.WebHost.xml
