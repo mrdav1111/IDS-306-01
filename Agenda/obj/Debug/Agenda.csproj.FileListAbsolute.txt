@@ -154,3 +154,9 @@ C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.SqlServer.dll
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.xml
 C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.SqlServer.xml
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Net.Http.Formatting.dll
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.dll
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.WebHost.dll
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Net.Http.Formatting.xml
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.xml
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\System.Web.Http.WebHost.xml
