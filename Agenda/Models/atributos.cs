@@ -5,6 +5,7 @@ namespace Agenda.Models
 {
     public class atributos
     {
+        public int ID { get; set; }
         public int Telefono { get; set; }
         public string Nombre { get; set; }
         public DateTime Fecha { get; set; }

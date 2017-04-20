@@ -150,3 +150,7 @@ C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\bin\es\System.Web.WebPages.Raz
 C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
 C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\obj\Debug\Agenda.dll
 C:\Users\oscar\Documents\GitHub\IDS-306-01\Agenda\obj\Debug\Agenda.pdb
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.dll
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.xml
+C:\Users\angel\Documents\Construccion\web\IDS-306-01\Agenda\bin\EntityFramework.SqlServer.xml
